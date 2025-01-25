@@ -1,0 +1,15 @@
+aliases:
+- challenger
+creation_timestamp: 1737822898528
+current_stage: Staging
+description: null
+last_updated_timestamp: 1737823369444
+name: CaliforniaHousingModel
+run_id: 64c9651ae0de42ba898917002ffb2ccb
+run_link: null
+source: file:///c:/Users/Tayeb%20Kahia/Desktop/mlflow/mlruns/436421618958882669/64c9651ae0de42ba898917002ffb2ccb/artifacts/model_name
+status: READY
+status_message: null
+storage_location: file:///c:/Users/Tayeb%20Kahia/Desktop/mlflow/mlruns/436421618958882669/64c9651ae0de42ba898917002ffb2ccb/artifacts/model_name
+user_id: null
+version: 2
