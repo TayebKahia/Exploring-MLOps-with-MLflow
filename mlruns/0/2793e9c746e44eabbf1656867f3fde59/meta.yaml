@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2793e9c746e44eabbf1656867f3fde59/artifacts
+end_time: 1737744913742
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2793e9c746e44eabbf1656867f3fde59
+run_name: abrasive-lamb-120
+run_uuid: 2793e9c746e44eabbf1656867f3fde59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737744903452
+status: 4
+tags: []
+user_id: Tayeb Kahia

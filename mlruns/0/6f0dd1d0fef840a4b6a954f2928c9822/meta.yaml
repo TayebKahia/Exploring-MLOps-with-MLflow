@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6f0dd1d0fef840a4b6a954f2928c9822/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6f0dd1d0fef840a4b6a954f2928c9822
+run_name: kindly-sow-526
+run_uuid: 6f0dd1d0fef840a4b6a954f2928c9822
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737738202786
+status: 1
+tags: []
+user_id: Tayeb Kahia

@@ -1,0 +1,6 @@
+aliases:
+  challenger: '1'
+creation_timestamp: 1737804502069
+description: an Ml model that predict house based on califor
+last_updated_timestamp: 1737822160121
+name: CaliforniaHousingModel

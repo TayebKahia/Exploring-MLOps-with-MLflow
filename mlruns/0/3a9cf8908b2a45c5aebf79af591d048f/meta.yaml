@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3a9cf8908b2a45c5aebf79af591d048f/artifacts
+end_time: 1737746666704
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3a9cf8908b2a45c5aebf79af591d048f
+run_name: abrasive-robin-799
+run_uuid: 3a9cf8908b2a45c5aebf79af591d048f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737746580348
+status: 4
+tags: []
+user_id: Tayeb Kahia

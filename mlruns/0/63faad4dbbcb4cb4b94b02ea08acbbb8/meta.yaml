@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/63faad4dbbcb4cb4b94b02ea08acbbb8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 63faad4dbbcb4cb4b94b02ea08acbbb8
+run_name: intrigued-croc-943
+run_uuid: 63faad4dbbcb4cb4b94b02ea08acbbb8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737738854541
+status: 1
+tags: []
+user_id: Tayeb Kahia

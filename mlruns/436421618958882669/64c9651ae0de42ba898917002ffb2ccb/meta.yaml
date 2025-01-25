@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Tayeb%20Kahia/Desktop/mlflow/mlruns/436421618958882669/64c9651ae0de42ba898917002ffb2ccb/artifacts
+end_time: 1737648837866
+entry_point_name: ''
+experiment_id: '436421618958882669'
+lifecycle_stage: active
+run_id: 64c9651ae0de42ba898917002ffb2ccb
+run_name: victorious-dog-704
+run_uuid: 64c9651ae0de42ba898917002ffb2ccb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737648825815
+status: 3
+tags: []
+user_id: Tayeb Kahia

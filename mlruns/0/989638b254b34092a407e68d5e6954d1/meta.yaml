@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/989638b254b34092a407e68d5e6954d1/artifacts
+end_time: 1737739331409
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 989638b254b34092a407e68d5e6954d1
+run_name: wise-goat-37
+run_uuid: 989638b254b34092a407e68d5e6954d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737739306526
+status: 4
+tags: []
+user_id: Tayeb Kahia

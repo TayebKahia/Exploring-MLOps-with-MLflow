@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Tayeb%20Kahia/Desktop/mlflow/mlruns/510758512657937785/129d63add2eb4ef8b63f690929ecb6ba/artifacts
+end_time: 1737664237869
+entry_point_name: ''
+experiment_id: '510758512657937785'
+lifecycle_stage: active
+run_id: 129d63add2eb4ef8b63f690929ecb6ba
+run_name: Random Forest
+run_uuid: 129d63add2eb4ef8b63f690929ecb6ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737664222667
+status: 3
+tags: []
+user_id: Tayeb Kahia

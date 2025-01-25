@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/eab6af5aece548738b4e9b89bd31db63/artifacts
+end_time: 1737746397973
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eab6af5aece548738b4e9b89bd31db63
+run_name: blushing-quail-39
+run_uuid: eab6af5aece548738b4e9b89bd31db63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737746375183
+status: 4
+tags: []
+user_id: Tayeb Kahia

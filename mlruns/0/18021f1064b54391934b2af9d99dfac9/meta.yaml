@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/18021f1064b54391934b2af9d99dfac9/artifacts
+end_time: 1737744080366
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 18021f1064b54391934b2af9d99dfac9
+run_name: tasteful-duck-670
+run_uuid: 18021f1064b54391934b2af9d99dfac9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737743814113
+status: 4
+tags: []
+user_id: Tayeb Kahia

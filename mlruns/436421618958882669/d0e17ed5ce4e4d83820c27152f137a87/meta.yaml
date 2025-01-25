@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Tayeb%20Kahia/Desktop/mlflow/mlruns/436421618958882669/d0e17ed5ce4e4d83820c27152f137a87/artifacts
+end_time: 1737747027544
+entry_point_name: ''
+experiment_id: '436421618958882669'
+lifecycle_stage: active
+run_id: d0e17ed5ce4e4d83820c27152f137a87
+run_name: angry-toad-759
+run_uuid: d0e17ed5ce4e4d83820c27152f137a87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737747002434
+status: 3
+tags: []
+user_id: Tayeb Kahia

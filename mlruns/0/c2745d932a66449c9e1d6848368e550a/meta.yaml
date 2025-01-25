@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c2745d932a66449c9e1d6848368e550a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c2745d932a66449c9e1d6848368e550a
+run_name: glamorous-zebra-420
+run_uuid: c2745d932a66449c9e1d6848368e550a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737738473111
+status: 1
+tags: []
+user_id: Tayeb Kahia

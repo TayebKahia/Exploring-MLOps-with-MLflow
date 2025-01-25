@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4b62490e5e69470ebeb90b2f2b976fff/artifacts
+end_time: 1737746525360
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4b62490e5e69470ebeb90b2f2b976fff
+run_name: useful-moth-959
+run_uuid: 4b62490e5e69470ebeb90b2f2b976fff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737746441257
+status: 4
+tags: []
+user_id: Tayeb Kahia
